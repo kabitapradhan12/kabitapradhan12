@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Kabita Pradhan 👋
 
 ### 💻 Aspiring Software Developer | CSE Graduate | Open to Opportunities
