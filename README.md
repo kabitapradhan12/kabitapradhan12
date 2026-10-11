@@ -20,7 +20,6 @@ An ML web app that predicts heart disease risk using a Random Forest model, buil
 
 ---
 
-## 🌐 Socials
 
 ## 🌐 Socials
 
