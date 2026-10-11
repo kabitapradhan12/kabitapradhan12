@@ -22,9 +22,8 @@ An ML web app that predicts heart disease risk using a Random Forest model, buil
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kabita-pradhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabitapradhan262@gmail.com)
 
 ---
 
@@ -55,5 +54,3 @@ An ML web app that predicts heart disease risk using a Random Forest model, buil
 ---
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
-- ⚡ Fun fact: ...
--->
