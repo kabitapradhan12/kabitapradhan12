@@ -1,93 +1,59 @@
-
-# Hi, I'm Kabita Pradhan 👋
-
-### 💻 Aspiring Software Developer | CSE Graduate | Open to Opportunities
-
-I'm a Computer Science and Engineering graduate passionate about software development, problem-solving, and learning new technologies.
-
-I'm continuously improving my programming skills by practicing coding, exploring new technologies, and building practical projects. I'm currently looking for an entry-level opportunity where I can apply my knowledge, learn from experienced developers, and grow professionally.
+<h1 align="center">Hi 👋, I'm Kabita Pradhan</h1>
+<h3 align="center">Aspiring Data Scientist | Python & Machine Learning</h3>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-* 🎓 B.Tech in Computer Science and Engineering
-* 💻 Interested in Software Development and Problem Solving
-* 🌱 Continuously learning and improving my technical skills
-* 🛠️ Building projects to gain practical experience
-* 🎯 Looking for entry-level Software Developer opportunities
-
----
-
-## 🧑‍💻 Technical Skills
-
-**Programming Languages:** Python, C++
-
-**Web Technologies:** HTML, CSS
-
-**Database:** MySQL
-
-**Frameworks:** Django, Streamlit
-
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-
-**Tools:** Git, GitHub
+- 🔭 I'm currently working on: **Machine Learning projects and web apps built with Streamlit**
+- 🌱 I'm currently learning: **Machine Learning, Data Analytics and Deep Learning**
+- 👯 I'm looking to collaborate on: **Data Science, ML & Open Source Projects**
+- 💬 Ask me about: **Python, Scikit-learn and Machine Learning**
+- ⚡ Fun fact: **I love building ML apps that solve real-world problems, like predicting heart disease risk.**
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Project
 
-### ❤️ CardioScan AI
-
-* A machine learning web application for predicting cardiovascular disease risk.
-* Built using Python, Pandas, NumPy, Scikit-learn, and Streamlit.
-* Uses a Random Forest classifier to generate predictions for educational purposes.
-
-### 📦 Product Management System
-
-* A web application developed using Python and Django.
-* Designed to manage product-related information and operations.
-* Explored database integration and REST API concepts.
-
-### 📊 YouTube Influencer Engagement Analysis
-
-* Analyzed YouTube video engagement using Python and statistical techniques.
-* Explored engagement patterns and compared influencer performance.
-* Used data analysis to identify useful insights.
+**[❤️ Heart Disease Predictor](https://github.com/kabitapradhan12/Heart-Disease-Preadictor)**
+An ML web app that predicts heart disease risk using a Random Forest model, built with Python, Scikit-learn and Streamlit.
 
 ---
 
-## 📚 Currently Learning
+## 🌐 Socials
 
-* Data Structures and Algorithms
-* Object-Oriented Programming
-* SQL and Database Concepts
-* Software Development Best Practices
-* Problem-Solving Techniques
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
-## 🤝 Connect With Me
+## 💻 Tech Stack
 
-* GitHub: [@kabitapradhan12](https://github.com/kabitapradhan12)
-
-I'm open to connecting with developers, collaborating on projects, and exploring entry-level opportunities in the software industry.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
 
-<!--
-**kabitapradhan12/kabitapradhan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabitapradhan12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabitapradhan12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kabitapradhan12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+---
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
 - ⚡ Fun fact: ...
 -->
